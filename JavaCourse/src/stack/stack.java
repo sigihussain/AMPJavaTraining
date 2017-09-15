@@ -1,7 +1,7 @@
 package stack;
 
 import java.util.Scanner;
-
+//
 public class stack {
 	int length;
 	int top;
